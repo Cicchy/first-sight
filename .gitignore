@@ -1,0 +1,6 @@
+__pycache__/         # Ignore all __pycache__ folders
+*.pyc                # Ignore all files ending in .pyc (compiled Python bytecode)
+*.pyo                # Ignore all .pyo files (optimized bytecode, legacy)
+*.pyd                # Ignore all .pyd files (compiled Python extensions, Windows)
+.env/                # Ignore the .env directory (often used for environment variables)
+.venv/               # Ignore the .venv directory (Python virtual environment)
